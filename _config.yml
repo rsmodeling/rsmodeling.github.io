@@ -1,9 +1,8 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: The Remote Sensing Modeling Network (RSMN)
+email: rsmodeling@126.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+ A network for advancing remote sensing modeling research.
 lang: en-US
 
 baseurl: # the subpath of your site, e.g. /blog/
