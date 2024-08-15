@@ -1,8 +1,8 @@
 # Site settings
-title: The Remote Sensing Modeling Network (RSMN)
+title: Remote Sensing Modeling Network (RSMN)
 email: rsmodeling@126.com
 description: >
- A network for advancing remote sensing modeling research.
+ An international network for advancing remote sensing modeling research.
 lang: en-US
 
 baseurl: # the subpath of your site, e.g. /blog/
