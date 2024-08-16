@@ -50,6 +50,9 @@ defaults:
       type: "WebPage"
 
 collections:
+  workinggroups:
+    permalink: /:collection/:path/
+    output: true
   docs:
     permalink: /:collection/:path/
     output: true
