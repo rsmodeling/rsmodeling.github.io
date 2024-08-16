@@ -70,7 +70,7 @@ collections:
   workinggroups:
     permalink: /:collection/:path/
     output: true
-  rsmfroums:
+  rsmforums:
     permalink: /:collection/:path/
     output: true
   docs:
