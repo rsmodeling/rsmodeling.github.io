@@ -1,5 +1,5 @@
 ---
-title: Working Groups
+title: Introduction
 permalink: /workinggroups/home/
 redirect_from: /workinggroups/index.html
 ---
