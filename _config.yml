@@ -56,9 +56,21 @@ defaults:
     sectionid: workinggroups
     seo:
       type: "WebPage"
+      
+- scope:
+    path: _rsmforums
+    type: rsmforums
+  values:
+    layout: rsmforums
+    sectionid: rsmforums
+    seo:
+      type: "WebPage"
 
 collections:
   workinggroups:
+    permalink: /:collection/:path/
+    output: true
+  rsmfroums:
     permalink: /:collection/:path/
     output: true
   docs:
