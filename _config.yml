@@ -48,6 +48,14 @@ defaults:
     sectionid: docs
     seo:
       type: "WebPage"
+- scope:
+    path: _workinggroups
+    type: workinggroups
+  values:
+    layout: workinggroups
+    sectionid: workinggroups
+    seo:
+      type: "WebPage"
 
 collections:
   workinggroups:
